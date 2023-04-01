@@ -1,0 +1,12 @@
+{
+    "POSTS": [
+        {
+            "name": "guid:how to do a plan",
+            "likes":"384",
+            "dislikes":"25",
+            "comments":"its good guid",
+            "img":"img/plan.jpg"
+           
+        }
+    ]
+}
